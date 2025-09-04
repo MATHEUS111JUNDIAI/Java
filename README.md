@@ -1,4 +1,3 @@
-🎯 Sobre este Repositório
 Este é um repositório dedicado aos meus estudos em Java. O principal objetivo é registrar e documentar exercícios, exemplos e lições aprendidas de diversas fontes, como:
 
 * Aulas da faculdade;
